@@ -1,0 +1,10 @@
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\bin\Debug\netstandard2.0\TimezoneLibrary.deps.json
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\bin\Debug\netstandard2.0\TimezoneLibrary.dll
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\bin\Debug\netstandard2.0\TimezoneLibrary.pdb
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.AssemblyInfoInputs.cache
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.AssemblyInfo.cs
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.dll
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.pdb
+C:\Users\VIET ANH\Desktop\TimezoneLibrary\obj\Debug\netstandard2.0\TimezoneLibrary.csproj.AssemblyReference.cache
